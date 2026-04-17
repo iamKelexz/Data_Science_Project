@@ -15,7 +15,9 @@ This project performs a comprehensive exploratory data analysis (EDA) on a real-
 * Generate actionable insights
 
 
+
 ##  Project Structure
+
 
 ├── data/
 │   ├── raw/
@@ -27,6 +29,8 @@ This project performs a comprehensive exploratory data analysis (EDA) on a real-
 │   └── plots/
 ├── README.md
 ├── requirements.txt
+
+
 
 ##  Tools & Technologies
 
