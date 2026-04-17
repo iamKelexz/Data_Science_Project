@@ -6,7 +6,6 @@ From EDA to machine learning building insights and predictive models
 
 This project performs a comprehensive exploratory data analysis (EDA) on a real-world dataset to uncover patterns, trends, and actionable insights. The goal is to transform raw data into meaningful information that can support decision-making.
 
----
 
 ##  Objectives
 
@@ -15,11 +14,9 @@ This project performs a comprehensive exploratory data analysis (EDA) on a real-
 * Visualize key trends and relationships
 * Generate actionable insights
 
----
 
 ##  Project Structure
 
-```
 ├── data/
 │   ├── raw/
 │   └── processed/
@@ -30,9 +27,6 @@ This project performs a comprehensive exploratory data analysis (EDA) on a real-
 │   └── plots/
 ├── README.md
 ├── requirements.txt
-```
-
----
 
 ##  Tools & Technologies
 
@@ -43,7 +37,6 @@ This project performs a comprehensive exploratory data analysis (EDA) on a real-
 * Seaborn
 * Jupyter Notebook
 
----
 
 ##  Data Cleaning
 
@@ -52,7 +45,6 @@ This project performs a comprehensive exploratory data analysis (EDA) on a real-
 * Converted data types
 * Treated outliers
 
----
 
 ##  Exploratory Data Analysis
 
@@ -61,15 +53,6 @@ This project performs a comprehensive exploratory data analysis (EDA) on a real-
 * Correlation analysis
 * Trend analysis
 
----
-
-##  Key Insights
-
-* 🔹 Insight 1: [Replace with real finding]
-* 🔹 Insight 2: [Replace with real finding]
-* 🔹 Insight 3: [Replace with real finding]
-
----
 
 ##  Visualizations
 
@@ -77,18 +60,14 @@ Include key plots to highlight findings:
 
 ![Sample Plot](visuals/plots/sample_plot.png)
 
----
 
 ##  How to Run the Project
 
 ```bash
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/iamkelexz/Data_Science_Project.git
 cd project-name
 pip install -r requirements.txt
 jupyter notebook
-```
-
----
 
 
 ##  Author
